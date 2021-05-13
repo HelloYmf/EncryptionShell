@@ -11,12 +11,12 @@ Win10 VisualStudio2010 Win32SDK 多字节集编码 x86
 ### 演示：
 
 #### 打包：
-![加密壳-打包](https://ftp.bmp.ovh/imgs/2021/05/57640cf680458288.png)
+![加密壳-打包](https://ftp.bmp.ovh/imgs/2021/05/a0c6afc21e80c991.png)
 
 #### 加密后对比：
-![加密壳-对比](https://i.loli.net/2021/05/13/mOruxC4T7DRnFJg.png)
+![加密壳-对比](https://ftp.bmp.ovh/imgs/2021/05/a0c6afc21e80c991.png)
 
 #### 加密后运行：
-![加密壳-运行1](https://i.loli.net/2021/05/13/pdiDCzrMG1eh7To.png)
+![加密壳-运行1](https://ftp.bmp.ovh/imgs/2021/05/57640cf680458288.png)
 
-![加密壳-运行2](https://i.loli.net/2021/05/13/rXFIQOeSKAucTih.png)
+![加密壳-运行2](https://ftp.bmp.ovh/imgs/2021/05/affa2ecd84a656f0.png)
