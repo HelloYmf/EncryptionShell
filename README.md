@@ -11,7 +11,7 @@ Win10 VisualStudio2010 Win32SDK 多字节集编码 x86
 ### 演示：
 
 #### 打包：
-![加密壳-打包](https://i.loli.net/2021/05/13/KndhbMZvgaEYsmP.png)
+![加密壳-打包](https://ftp.bmp.ovh/imgs/2021/05/57640cf680458288.png)
 
 #### 加密后对比：
 ![加密壳-对比](https://i.loli.net/2021/05/13/mOruxC4T7DRnFJg.png)
